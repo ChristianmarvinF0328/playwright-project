@@ -17,8 +17,8 @@
     "allure-playwright": "^2.15.0",
     "eslint-plugin-playwright": "^1.5.4",
     "eslint": "^8.57.0"
-  },
-  "dependencies": {
-    "playwright": "^1.42.1"
   }
+  // "dependencies": {
+  //   "playwright": "^1.42.1"
+  // }
 }
